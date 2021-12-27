@@ -7,3 +7,6 @@
 `node app.js`
 
 **3)** Open http://localhost:3000
+
+# HEROKU:
+https://sm-ylnts.herokuapp.com/
