@@ -1,0 +1,21 @@
+{
+  "name": "ylnts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js",
+    "postinstall": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semivori/ylnts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semivori/ylnts/issues"
+  },
+  "homepage": "https://github.com/semivori/ylnts#readme"
+}
