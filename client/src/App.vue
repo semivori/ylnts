@@ -121,6 +121,10 @@ export default {
   },
   mounted() {
     this.load();
+
+    console.log(
+      process.env.VUE_APP_API_BASE_URL
+    );
   },
 };
 </script>
